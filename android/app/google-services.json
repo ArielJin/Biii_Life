@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "697399472985",
+    "project_id": "biii-app",
+    "storage_bucket": "biii-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697399472985:android:fdd9ff9740ee5e1a8f9248",
+        "android_client_info": {
+          "package_name": "biiilife.savingearth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697399472985-bcs0ilo06vb5oenms1ha6lrro7pqqf7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC50bxy0MiDW8_yB7uUakk3oLRlAmHUow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697399472985-bcs0ilo06vb5oenms1ha6lrro7pqqf7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697399472985-n0g0i8mof538721rt9rr818vjb192ru4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.biii.app215358"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697399472985:android:13232b773398adff8f9248",
+        "android_client_info": {
+          "package_name": "com.biii.app215358"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697399472985-14s04m1f27vnqfl6c0c3per072p5qig1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biii.app215358",
+            "certificate_hash": "de32986d8842d08fe979a096e71fa45e048ef98d"
+          }
+        },
+        {
+          "client_id": "697399472985-bcs0ilo06vb5oenms1ha6lrro7pqqf7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC50bxy0MiDW8_yB7uUakk3oLRlAmHUow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697399472985-bcs0ilo06vb5oenms1ha6lrro7pqqf7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697399472985-n0g0i8mof538721rt9rr818vjb192ru4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.biii.app215358"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
