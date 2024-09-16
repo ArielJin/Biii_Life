@@ -2,7 +2,7 @@ name: Biii_Life
 description: A social platform that connects people who love the earth. Make your voice heard and take action to protect our only planet.
 publish_to: 'none'
 
-version: 7.3.0
+version: 7.4.0
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
